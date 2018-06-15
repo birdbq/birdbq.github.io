@@ -26,7 +26,7 @@ navigation: # Navigation links
   - {name: 'Stuff', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 
-tagline: > "30 something year old father, husband, lean, digital enthusiast and aspiring chef! 15+ years experience in operations, digitalization, cost reduction and project management."
+tagline: "30 something year old father, husband, lean, digital enthusiast and aspiring chef! 15+ years experience in operations, digitalization, cost reduction and project management."
 
 hero_img: posts/header-home.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
