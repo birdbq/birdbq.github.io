@@ -1,8 +1,7 @@
 # SITE CONFIGURATION
 title: Clint Bird
 author: GitHub User # You :P
-description: > # Meta description of Homepage
-30 something year old father, husband, lean, digital enthusiast and aspiring chef! 15+ years experience in operations, digitalization, cost reduction and project management.
+description: > 30 something year old father, husband, lean, digital enthusiast and aspiring chef! 15+ years experience in operations, digitalization, cost reduction and project management.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://birdbq.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -27,9 +26,8 @@ navigation: # Navigation links
   - {name: 'Stuff', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 
-tagline: >
-  30 something year old father, husband, lean, digital enthusiast and aspiring chef! 15+ years experience in operations, digitalization, cost reduction and project management.
-
+tagline: > 30 something year old father, husband, lean, digital enthusiast and aspiring chef! 15+ years experience in operations, digitalization, cost reduction and project management.
+  
 hero_img: posts/header-home.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: clintjb@gmail.com # email for form submission
