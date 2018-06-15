@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 title: Clint Bird
 author: GitHub User # You :P
-description: > "30 something year old father, husband, lean, digital enthusiast and aspiring chef! 15+ years experience in operations, digitalization, cost reduction and project management."
+description: "30 something year old father, husband, lean, digital enthusiast and aspiring chef! 15+ years experience in operations, digitalization, cost reduction and project management."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://birdbq.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
